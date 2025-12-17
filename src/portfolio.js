@@ -34,18 +34,22 @@ const projects = [
     sourceCode: 'https://github.com/nansikom/Resume-Application-assistance',
     livePreview: 'https://youtu.be/rp8lTPCU4-g',
     image :'https://resumeoptimizerpro.com/images/blog-tailoring-resumes-to-jobs.jpg',
-    
-
-
+  },
+   {
+    name: 'Bulkmart E-commerce Platform',
+    description:`A practical business management and ecommerce tool built specifically for Ugandan business owners and buyers. It helps sellers track their sales, expenses, inventory, and product performance while giving buyers an easy and reliable way to discover and purchase products. The platform creates a simple two-way marketplace where both sellers and buyers benefit.`,
+    stack: ['React Native', 'Typescript', 'Tailwind Css', 'Material UI', 'design theme', 'Postgres SQL', 'NodeJS', 'Express', 'Expo'],
+    sourceCode: 'https://github.com/nansikom/bulkmart',
+    livePreview: 'https://youtu.be/UHYLNafJRy0Links to an external site.',
+    image: 'https://cdn.prod.website-files.com/62722382edf1ccb5a513cf38/651fda1ffdd81b215b8f3ecf_sales-monitoring-systems-a-complete-guide.png'
 
   },
-  {
-    name: '🏆 ELearn: An AI-Powered Educational Game',
-    description:`ELearn is a gamified learning platform built with JavaScript, Python, Node.js, and a REST API. Developed collaboratively with Faith, John and Jiya, it won first place at an Oregon State University hackathon. The app uses Google’s Gemini AI to generate real-time, subject-specific questions and supports both single-player and multiplayer modes, combining generative AI with simple game mechanics to create an engaging learning experience.`,
-    stack: ['Python', 'Javascript', 'HTML', 'Gemini Api'],
-    sourceCode: 'https://github.com/nansikom/educationgame-',
-    livePreview: 'https://devpost.com/software/elearn-6mbn10',
-    image:'https://www.proprofs.com/c/wp-content/uploads/2019/12/role-of-ML-AI-in-the-education-system.jpg'
+    {
+    name: 'Enobase Simulation LLM Powered Business Tool',
+    description: `A lightweight, Airtable-style tool that organizes business records, runs PLV8-powered calculations, and offers simple regression forecasting. It also includes AI agents that answer data questions for non-technical users, built as a team group project with Alex, Micheal, Anthony and Ibrahim`,
+    sourceCode: 'https://github.com/vibrahim09/enobase_osu',
+    image:'https://cdn.getmidnight.com/50062ddd13358c02dea31c6e82a524c5/2023/09/AdobeStock_600314909.jpeg',
+    stack: ['React', 'NodeJS', 'Express', 'Postgres SQL', 'PLV8','Langchain','Shadcn, Open AI API'],
   },
   {
     name: '🏠 Predictive Housing Analytics',
@@ -64,13 +68,15 @@ const projects = [
     image: 'https://assets-global.website-files.com/64be86eaa29fa71f24b00685/6627961053c159e9c390ffef_What%20is%20Document%20Analysis_.png'
   },
   {
-    name: 'LLM Powered Business Tool',
-    description:`An intelligent business tool designed by a business user for business users to assist business users in getting insights from their records(sales, expenditures costs) using AI-driven data processing.`,
-    stack: ['NodeJS', 'Prompt Engineering, Postgres SQL, PLV8', 'Open AI API', 'Langchain'],
-    sourceCode: 'https://github.com/nansikom/Enobasepublic',
-    livePreview: 'https://github.com',
-    image: ''
+    name: '🏠 Fruit Classification Model',
+    description:
+    `This project showcases use of Python to build a machine learning model using Tensor flow for fruit classification and yield prediction for different types of fruits`,
+    stack: ['Python','Scikit learn', 'Pandas', 'Tensorflow','Flask Api'],
+    sourceCode: 'https://github.com/nansikom/Fruit-classifier-',
+    image:'http://image.slidesharecdn.com/fruits-140110071235-phpapp02/95/fruits-5-638.jpg?'
   },
+  
+
 ]
 
 const skills = [
