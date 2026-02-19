@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cleanfolio/static/css/main.6f8c282f.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.a6c1fcca.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.a6c1fcca.chunk.js.map",
+    "main.js": "/cleanfolio/static/js/main.bab79ddc.chunk.js",
+    "main.js.map": "/cleanfolio/static/js/main.bab79ddc.chunk.js.map",
     "runtime-main.js": "/cleanfolio/static/js/runtime-main.c4a74007.js",
     "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.c4a74007.js.map",
     "static/js/2.f5288c40.chunk.js": "/cleanfolio/static/js/2.f5288c40.chunk.js",
@@ -11,12 +11,13 @@
     "static/css/main.6f8c282f.chunk.css.map": "/cleanfolio/static/css/main.6f8c282f.chunk.css.map",
     "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.f5288c40.chunk.js.LICENSE.txt",
     "static/media/Bulkmart.8fc419c3.png": "/cleanfolio/static/media/Bulkmart.8fc419c3.png",
-    "static/media/employee.f4416134.jpg": "/cleanfolio/static/media/employee.f4416134.jpg"
+    "static/media/employee.f4416134.jpg": "/cleanfolio/static/media/employee.f4416134.jpg",
+    "static/media/resume.cfef867f.png": "/cleanfolio/static/media/resume.cfef867f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c4a74007.js",
     "static/js/2.f5288c40.chunk.js",
     "static/css/main.6f8c282f.chunk.css",
-    "static/js/main.a6c1fcca.chunk.js"
+    "static/js/main.bab79ddc.chunk.js"
   ]
 }
